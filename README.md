@@ -7,8 +7,10 @@ Hello, I am MilVio. I like to play video games, code, and draw. I like to play v
 
 ![CSGO](https://activeplayer.io/wp-content/uploads/2020/10/CS-Go-1084x570.jpg)
 My favorite websites are: 
-[Stackoverflow](https://stackoverflow.com/).
+[Stackoverflow](https://stackoverflow.com/)
+
 [Investopedia](https://www.investopedia.com/)
+
 [Latimes](https://www.latimes.com/)
 
 
